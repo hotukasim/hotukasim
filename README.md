@@ -1,121 +1,62 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🐋 hotukasim · GitHub Profile                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ─── Animated Wave Header ─── -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=hotukasim&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descSize=20&descColor=a78bfa" width="100%" />
+</div>
 
-  <!-- Animated Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=200&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
-
-  <!-- Animated Typing Text -->
+<!-- ─── Animated Typing Banner ─── -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+hotukasim;Building+things+in+Java%2C+C%2B%2B%2C+Python+%26+Bash;Crafting+Systems+%26+Backend+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7928CA&center=true&vcenter=true&width=650&height=60&lines=Hi+%F0%9F%90%8B+I'm+hotukasim;Software+Developer+%26+Open+Source+Enthusiast;Building+things+in+Java%2C+C%2B%2B%2C+Python+%26+Bash;Turning+coffee+into+compiled+code+%E2%98%95;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
+</div>
 
-  <br />
-  <br />
+<br/>
 
-  <!-- GitHub Profile Trophies -->
+<!-- ─── Social / Status Badges ─── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Backend-7928CA?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Lives%20in-Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1a1b27" />
+</div>
+
+<br/>
+
+<!-- ─── Profile Views + Followers ─── -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hotukasim&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/hotukasim?tab=followers">
+    <img src="https://img.shields.io/github/followers/hotukasim?label=FOLLOWERS&style=for-the-badge&color=7928CA&labelColor=1a1b27&logo=github" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/hotukasim?label=STARS&style=for-the-badge&color=7928CA&labelColor=1a1b27&logo=github" alt="Stars" />
+</div>
+
+<br/>
+
+<!-- ─── GitHub Trophies ─── -->
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hotukasim&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="hotukasim's Trophies" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hotukasim&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="hotukasim's Trophies" />
   </a>
 </div>
 
 ---
 
-### ⚡ About Me
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 <strong>Currently working on:</strong> Low-level programming, Linux utilities, and backend automation.</li>
-        <li>🌱 <strong>Currently learning:</strong> Advanced C++, system optimization, and Python scripting.</li>
-        <li>👯 <strong>Looking to collaborate on:</strong> Open-source system tools and CLI applications.</li>
-        <li>💬 <strong>Ask me about:</strong> Java, C, C++, Bash scripting, and Linux setup.</li>
-        <li>⚡ <strong>Fun Fact:</strong> I spend more time customizing my terminal configuration than sleeping!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Random Developer Joke -->
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
----
+## ⚡ `$ whoami`
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,bash&title=Languages&perline=10" alt="Languages" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,git,github,vscode,docker&title=Tools&perline=10" alt="Tools & OS" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hotukasim&bg_color=1a1b27&color=70a5fd&line=7928CA&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 🔥 Stats & Commit Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&theme=tokyonight&hide_border=true" alt="hotukasim Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotukasim&theme=tokyonight" alt="Profile Details" width="48%" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
-  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=6&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 🐍 Contribution Grid Snake
-
-<!-- Note: To make this work, you must set up the GitHub Action for the Platane/snk repository. -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 💭 Daily Developer Quote
-
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hotukasim&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=100&section=footer" width="100%"/>
-</p>
+```yaml
+name:      hotukasim
+role:      Software Developer
+focus:     [Low-level programming, Linux utilities, Backend automation]
+learning:  [Advanced C++, System optimization, Python scripting]
+ask_me:    [Java, C, C++, Bash scripting, Linux setup]
+hobbies:   [Dotfiles, Terminal ricing, Open Source]
+fun_fact:  "I spend more time customizing my terminal than sleeping!"
