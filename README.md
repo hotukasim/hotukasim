@@ -14,11 +14,8 @@ I'm a passionate developer who loves building things with code. Welcome to my Gi
 ### 📊 GitHub Stats & Language Breakdown:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotukasim&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hotukasim&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotukasim&theme=2077" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hotukasim&theme=2077" alt="Top Languages" />
 </p>
 
 ---
