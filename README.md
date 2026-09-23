@@ -1,77 +1,107 @@
 <div align="center">
 
-  <!-- Animated Typing Banner Header -->
+  <!-- Animated Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=200&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
+
+  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7928CA&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+hotukasim;Software+Developer+%26+Open+Source+Enthusiast;Building+things+in+Java%2C+C%2B%2B%2C+Python+%26+Bash;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+hotukasim;Building+things+in+Java%2C+C%2B%2B%2C+Python+%26+Bash;Crafting+Systems+%26+Backend+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
+  <br />
   <br />
 
   <!-- GitHub Profile Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hotukasim&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="hotukasim's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hotukasim&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="hotukasim's Trophies" />
   </a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
 
 ---
 
 ### ⚡ About Me
 
-- 🔭 **I’m currently working on:** Low-level programming, Linux utilities, and backend automation.
-- 🌱 **I’m currently learning:** Advanced C++, system optimization, and Python scripting.
-- 💬 **Ask me about:** Java, C, C++, Bash scripting, and Linux setup.
-- ⚡ **Fun Fact:** I spend more time customizing my terminal configuration than sleeping!
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 <strong>Currently working on:</strong> Low-level programming, Linux utilities, and backend automation.</li>
+        <li>🌱 <strong>Currently learning:</strong> Advanced C++, system optimization, and Python scripting.</li>
+        <li>👯 <strong>Looking to collaborate on:</strong> Open-source system tools and CLI applications.</li>
+        <li>💬 <strong>Ask me about:</strong> Java, C, C++, Bash scripting, and Linux setup.</li>
+        <li>⚡ <strong>Fun Fact:</strong> I spend more time customizing my terminal configuration than sleeping!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Random Developer Joke -->
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Interactive Shields Badges -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,bash,git,linux,vscode&perline=8" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,bash&title=Languages&perline=10" alt="Languages" />
+  </a>
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,git,github,vscode,docker&title=Tools&perline=10" alt="Tools & OS" />
   </a>
 </p>
 
 ---
 
-### 🔥 GitHub Activity & Commit Streak
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&theme=tokyonight&hide_border=true" alt="hotukasim Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hotukasim&bg_color=1a1b27&color=70a5fd&line=7928CA&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
-### 📊 Detailed Stats & Language Breakdown
+### 🔥 Stats & Commit Streak
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&theme=tokyonight&hide_border=true" alt="hotukasim Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotukasim&theme=tokyonight" alt="Profile Details" width="48%" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=6&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotukasim&theme=2077" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hotukasim&theme=2077" alt="Top Languages" />
-  </p>
+---
 
-  <p align="center">
-    <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=10&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-09-01" alt="hotukasim's GitHub stats"/>
-    <br/><br/>
-    <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2026-09-01" alt="GitHub Stats Card" />
-  </p>
+### 🐍 Contribution Grid Snake
 
+<!-- Note: To make this work, you must set up the GitHub Action for the Platane/snk repository. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotukasim/hotukasim/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
@@ -82,19 +112,10 @@
   <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
----
-
-### 📫 Connect with Me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hotukasim&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hotukasim&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=100&section=footer" width="100%"/>
 </p>
