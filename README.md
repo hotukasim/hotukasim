@@ -22,11 +22,11 @@ I'm a passionate developer who loves building things with code. Welcome to my Gi
 ---
 
 <p align="center">
-  <img height="170" src="images/lumine.png" alt="lumine"/>
+  
   <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=10&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-09-01" alt="Saif Shahriar's GitHub stats"/>
   <br/>
   <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2026-09-01" />
-  <img height="170" src="images/kokkoro_ok.png" alt="kokkoro_ok"/>
+  
 </p>
 <br/>
 <h2 align="center">🐱 What you're probably thinking 🐱</h2>
