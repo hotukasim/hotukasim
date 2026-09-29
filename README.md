@@ -20,41 +20,11 @@
 
 <br />
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
+
 
 ---
 
-### ⚡ About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 <strong>Currently working on:</strong> Low-level programming, Linux utilities, and backend automation.</li>
-        <li>🌱 <strong>Currently learning:</strong> Advanced C++, system optimization, and Python scripting.</li>
-        <li>👯 <strong>Looking to collaborate on:</strong> Open-source system tools and CLI applications.</li>
-        <li>💬 <strong>Ask me about:</strong> Java, C, C++, Bash scripting, and Linux setup.</li>
-        <li>⚡ <strong>Fun Fact:</strong> I spend more time customizing my terminal configuration than sleeping!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Random Developer Joke -->
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -106,16 +76,4 @@
 
 ---
 
-### 💭 Daily Developer Quote
 
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hotukasim&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=100&section=footer" width="100%"/>
-</p>
