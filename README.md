@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&" alt="hotukasim" /></p>
 
 
-<br/>
+
 <h2 align="center">what!</h2>
 
 <p align="center">
@@ -27,4 +27,4 @@
   <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2026-09-01" />
   
 </p>
-<br/>
+
