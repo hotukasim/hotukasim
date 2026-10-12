@@ -16,9 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&" alt="hotukasim" /></p>
 
-<p align="center">
-  <img width="520" src="images/git_manga.png" alt="git in manga"/>
-</p>
+
 <br/>
 <h2 align="center">what!</h2>
 
