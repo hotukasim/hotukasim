@@ -15,7 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hotukasim&show_icons=true&locale=en" alt="hotukasim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&" alt="hotukasim" /></p>
-<h2 align="center">🐋 What I do on Github 🐋</h2>
 
 <p align="center">
   <img width="520" src="images/git_manga.png" alt="git in manga"/>
