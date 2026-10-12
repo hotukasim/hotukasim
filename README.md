@@ -15,3 +15,36 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hotukasim&show_icons=true&locale=en" alt="hotukasim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotukasim&" alt="hotukasim" /></p>
+<h2 align="center">🐋 What I do on Github 🐋</h2>
+
+<p align="center">
+  <img width="520" src="images/git_manga.png" alt="git in manga"/>
+</p>
+<br/>
+<h2 align="center">what!</h2>
+
+<p align="center">
+  
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=10&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-09-01" alt="hotukasim's GitHub stats"/>
+  <br/>
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api?&hide_title=true&username=hotukasim&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2026-09-01" />
+  
+</p>
+<br/>
+<h2 align="center">🐱 What you're probably thinking 🐱</h2>
+
+<p align="center">
+  <img width="520" src="images/banner.gif" alt="sighs"/>
+</p>
+
+
+<!--
+<br />
+
+<h2 align="center">🙀 Useless Projects 🙀</h2>
+<p align="center">
+<img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=dwm-saif" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=dotfiles" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=email-validator-api" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=nvim-lsi" /><img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=quran-cli" /><img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=hotukasim&theme=tokyonight&repo=pong2d" />
+</p>
+-->
+
+<!-- Ripped off from @folliehiyuki -->
