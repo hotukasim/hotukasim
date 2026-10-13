@@ -22,7 +22,7 @@
 
 <p align="center">
   
-  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=20&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-09-01" alt="hotukasim's GitHub stats"/>
+  <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/top-langs/?username=hotukasim&hide_title=true&langs_count=8&layout=compact&exclude_repo=hotukasim.github.io&hide=makefile,roff,liquid,css,html,typescript,javascript&theme=tokyonight&timestamp=2026-09-01" alt="hotukasim's GitHub stats"/>
 
   
 </p>
